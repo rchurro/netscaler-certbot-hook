@@ -48,7 +48,7 @@ After installation, the `netscaler-certbot-hook` command will be available syste
 
 ```bash
 # Clone the repository
-git clone https://github.com/slauger/netscaler-certbot-hook.git
+git clone https://github.com/rchurro/netscaler-certbot-hook.git
 cd netscaler-certbot-hook
 
 # Install in development mode
